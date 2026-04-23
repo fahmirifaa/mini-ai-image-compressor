@@ -98,7 +98,7 @@ pip install streamlit Pillow
 Pastikan kamu sudah berada di folder yang berisi `app_kompres.py`, lalu jalankan:
 
 ```bash
-streamlit run app_kompres.py
+python -m streamlit run app_kompres.py
 ```
 
 Streamlit akan otomatis membuka browser di alamat:
